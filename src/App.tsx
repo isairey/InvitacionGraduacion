@@ -206,7 +206,7 @@ export default function InvitacionGraduacion() {
             <InfoCard
               icon={<Clock3 className="text-cyan-400 mb-4" size={35} />}
               title="Hora"
-              text="04:00 PM"
+              text="03:00 PM"
             />
 
             <InfoCard
