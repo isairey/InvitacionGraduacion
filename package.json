@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://isairey.github.io/InvitacionGraduacion/",
+  "homepage": "https://isairey.github.io/InvitacionGraduacion",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
