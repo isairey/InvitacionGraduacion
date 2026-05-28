@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  base: '/InvitacionGraduacion/',
+  base: '/InvitacionGraduacion',
 })
