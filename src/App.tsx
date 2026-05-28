@@ -7,7 +7,7 @@ import {
   MapPin,
   Sparkles,
   Users,
-  Camera,
+  
   PartyPopper,
   Heart,
   Music2,
